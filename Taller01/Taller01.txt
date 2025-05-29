@@ -1,0 +1,5 @@
+Consignas:
+https://www.dropbox.com/s/e7d6n3pslmw2vs6/IntroDS_-_Taller1.R?dl=0
+
+Datos:
+https://www.dropbox.com/s/sb3anace46meze9/vuelos_01_12.txt?dl=0
